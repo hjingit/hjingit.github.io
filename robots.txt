@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hjingit.github.io/blog/sitemap.xml
+Sitemap: https://hjingit.github.io/sitemap.xml
