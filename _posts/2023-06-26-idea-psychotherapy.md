@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  An Idea for Neuroscientific and Mathematical Approach to Understand the Mechanism of Psychotherapy
-date:   2023-06-26 16:40:16
+title: An Idea for Neuroscientific and Mathematical Approach to Understand the Mechanism of Psychotherapy
+date:   2023-06-25 00:40:16
 description: # Scholarship
 tags: note
 # categories: sample-posts
 ---
-Understanding why psychotherapy works in a neuroscientific and mathematical way has been a long-standing interest of mine. Although my idea on this topic is still preliminary and lacks scientific evidence, I’d like to share it here to refine and develop it shortly.
+
+Understanding why psychotherapy works in a neuroscientific and mathematical way has been a long-standing interest of mine. Although my idea on this topic is still preliminary and lacks scientific evidence, I'd like to share it here to refine and develop it shortly.
 
 Viewing the brain as an information-processing machine is a well-known approach in cognitive psychology. When considering psychotherapy as an information processing task, from the client's perspective, it can be seen as having an input, internal processing within the brain, and an output. The brain encodes, stores, and updates information. Additionally, the brain can consciously perceive only a subset of information processes, while the rest remain unconscious. The information, opinions, beliefs, and intentions that enter our consciousness can be seen as a result of competition, each carrying a certain weight that represents its importance in the processing system. Emotions play a role in this weighting process, as information is labeled and the stronger the emotion associated with it, the higher its weight. Moreover, information with a higher weight can have a greater impact on our thinking processes.
 
