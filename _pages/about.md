@@ -16,6 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Cathy (김현진), a PhD student in the [CCS Lab](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/).
+I'm Cathy (김현진), a research professor in the psychiatry department at [Boramae Medical Center](https://en.brmh.org/main/main.do).
+I received my PhD from the [CCS Lab](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/) (Feb, 2024).
 
 My academic focus lies in comprehending the intricate workings of the human mind, with a keen interest in exploring how computational methodologies can enrich our understanding of aberrant decision making and its neural underpinnings.
