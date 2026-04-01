@@ -15,8 +15,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi, I'm Cathy (김현진). I am currently working as a research scientist at [Emocog](https://www.emocog.com/) and previously served as a research professor in the Department of Psychiatry at [Boramae Medical Center](https://en.brmh.org/main/main.do). I received my Ph.D. in Clinical Psychology from [Seoul National University](https://en.snu.ac.kr/) (2024), where I was trained in computational psychiatry at the [CCS Lab](https://ccs-lab.github.io/). I also completed clinical training in psychiatry at [Boramae Medical Center](https://en.brmh.org/main/main.do), gaining experience bridging research and clinical practice.
 
-I'm Cathy (김현진), a research professor in the psychiatry department at [Boramae Medical Center](https://en.brmh.org/main/main.do).
-I received my PhD from the [CCS Lab](https://ccs-lab.github.io/) at [Seoul National University](https://en.snu.ac.kr/) (Feb, 2024).
-
-My academic focus lies in comprehending the intricate workings of the human mind, with a keen interest in exploring how computational methodologies can enrich our understanding of aberrant decision making and its neural underpinnings.
+My research focuses on understanding psychiatric symptoms through computational and quantitative approaches. In particular, I am interested in using computational models and behavioral paradigms to decompose aberrant decision-making processes in mental disorders into more precise and testable components. Ultimately, I aim to clarify the neural mechanisms underlying these processes and to identify more precise targets for intervention.
