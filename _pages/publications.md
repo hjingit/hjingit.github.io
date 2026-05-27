@@ -10,6 +10,9 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<h2>Preprints & Under Review</h2>
+{% bibliography -f {{ site.scholar.bibliography }} -q @*[keywords~=preprint]* %}
+
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
